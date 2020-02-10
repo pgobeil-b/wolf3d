@@ -1,6 +1,8 @@
 # wolf3d
 C implementation of raycasting from wolfenstein
 
+![wolf3d screenshot](https://i.imgur.com/XxOEu9p.png)
+
 Try: make && ./wolf3d doom
 
 or: make && ./wolf3d mario
