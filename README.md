@@ -2,7 +2,8 @@
 C implementation of raycasting from wolfenstein
 
 Try: make && ./wolf3d doom
-or: make &&b ./wolf3d mario
+
+or: make && ./wolf3d mario
 
 Will soon have a make feature to safely use your own labyrinths, the current implementation is a bit shakey
 
