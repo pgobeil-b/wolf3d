@@ -1,8 +1,10 @@
 # wolf3d
 C implementation of raycasting from wolfenstein
 
-Try make && ./wolf3d doom
+Try: make && ./wolf3d doom
+or: make &&b ./wolf3d mario
 
+- Will soon have a make feature to safely use your own labyrinths, the current implementation is a bit shakey
 You can make your own labyrinths, altough the parsing only accepts rectangular maps right now.
 Rules to follow:
 * 1 '1' are for walls '5' are goals
